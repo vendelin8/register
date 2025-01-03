@@ -1,0 +1,14 @@
+{
+    "domain": "is-local.org",
+    "subdomain": "csalad",
+
+    "owner": {
+        "email": "gergely.bodi@toptal.com"
+    },
+
+    "record": {
+        "NS": "dns1.alwaysdata.com", "dns2.alwaysdata.com"
+    },
+
+    "proxied": false
+}
